@@ -1,96 +1,19 @@
 [[
 {
-	"PrimaryItem1Data": {
-		"Cost": 200,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "ShoddyRevolver",
+	"Sellsword": {
+		"Weapons": {"Sword"},
+		"DisplayImage": "rbxassetid://92915129581858",
 		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"DamageDropoff": 7,
-			"Weight": 2
+			"HP": {17, 40, 70},
+			"Strength": {5, 22, 50},
+			"Magic": {0, 15, 0},
+			"Skill": {7, 24, 55},
+			"Speed": {6, 22, 50},
+			"Luck": {2, 20, 30},
+			"Defense": {5, 21, 45},
+			"Resistance": {2, 19, 40},
+			"Movement": {5, 7, 0}
 		}
 	},
-	"PrimaryItem2Data": {
-		"Cost": 100,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Knife",
-		"Stats": {
-			"AttackRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"Weight": 2
-		}
-	},
-	"PrimaryItem3Data": {
-		"Cost": 300,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "SlowLoadingShotgun",
-		"Stats": {
-			"FireRate": 3,
-			"Damage": 67,
-			"Durability": 23,
-			"DamageDropoff": 7,
-			"Weight": 2
-		}
-	},
-	"PrimaryItem4Data": {
-		"Cost": 170,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "MetalPipe",
-		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"Weight": 2
-		}
-	},
-	"PrimaryItem5Data": {
-		"Cost": 400,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "FastButterflyKnife",
-		"Stats": {
-			"FireRate": 92,
-			"Damage": 37,
-			"Durability": 23,
-			"Weight": 2
-		}
-	},
-	"PrimaryItem6Data": {
-		"Cost": 300,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Pike",
-		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"Weight": 2
-		}
-	},
-	"PrimaryItem7Data": {
-		"Cost": 50,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Snowball",
-		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"DamageDropoff": 7,
-			"Weight": 2
-		}
-	},
-  	"PrimaryItem8Data": {
-		"Cost": 600,
-		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Musketoon",
-		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
-			"Durability": 23,
-			"DamageDropoff": 7,
-			"Weight": 2
-		}
-	}
 }
 ]]
