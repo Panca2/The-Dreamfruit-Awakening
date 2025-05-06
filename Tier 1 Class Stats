@@ -1,0 +1,96 @@
+[[
+{
+	"PrimaryItem1Data": {
+		"Cost": 200,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "ShoddyRevolver",
+		"Stats": {
+			"FireRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"DamageDropoff": 7,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem2Data": {
+		"Cost": 100,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Knife",
+		"Stats": {
+			"AttackRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem3Data": {
+		"Cost": 300,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "SlowLoadingShotgun",
+		"Stats": {
+			"FireRate": 3,
+			"Damage": 67,
+			"Durability": 23,
+			"DamageDropoff": 7,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem4Data": {
+		"Cost": 170,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "MetalPipe",
+		"Stats": {
+			"FireRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem5Data": {
+		"Cost": 400,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "FastButterflyKnife",
+		"Stats": {
+			"FireRate": 92,
+			"Damage": 37,
+			"Durability": 23,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem6Data": {
+		"Cost": 300,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Pike",
+		"Stats": {
+			"FireRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"Weight": 2
+		}
+	},
+	"PrimaryItem7Data": {
+		"Cost": 50,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Snowball",
+		"Stats": {
+			"FireRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"DamageDropoff": 7,
+			"Weight": 2
+		}
+	},
+  	"PrimaryItem8Data": {
+		"Cost": 600,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Musketoon",
+		"Stats": {
+			"FireRate": 12,
+			"Damage": 37,
+			"Durability": 23,
+			"DamageDropoff": 7,
+			"Weight": 2
+		}
+	}
+}
+]]
