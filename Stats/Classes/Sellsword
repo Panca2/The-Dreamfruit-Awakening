@@ -1,6 +1,5 @@
 {
 	"Weapons": {"Sword"},
-	"DisplayImage": "rbxassetid://92915129581858",
 	"Stats": {
 		"HP": {17, 40, 70},
 		"Strength": {5, 22, 50},
