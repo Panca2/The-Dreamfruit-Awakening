@@ -1,1 +1,15 @@
-
+{
+	"Weapons": {"Sword"},
+	"DisplayImage": "rbxassetid://92915129581858",
+	"Stats": {
+		"HP": {17, 40, 70},
+		"Strength": {5, 22, 50},
+		"Magic": {0, 15, 0},
+		"Skill": {7, 24, 55},
+		"Speed": {6, 22, 50},
+		"Luck": {2, 20, 30},
+		"Defense": {5, 21, 45},
+    "Resistance": {2, 19, 40},
+		"Movement": {5, 7, 0}
+	}
+}
