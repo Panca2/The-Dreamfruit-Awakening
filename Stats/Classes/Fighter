@@ -1,4 +1,5 @@
-{
+{	
+	"Description": "A beefy brawler who can pack a powerful punch.",
 	"Weapons": {"Gauntlets"},
 	"Stats": {
 		"HP": {19, 45, 80},
