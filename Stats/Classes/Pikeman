@@ -1,0 +1,14 @@
+{
+	"Weapons": {"Lance"},
+	"Stats": {
+		"HP": {17, 40, 70},
+		"Strength": {6, 22, 50},
+		"Magic": {0, 15, 0},
+		"Skill": {6, 23, 55},
+		"Speed": {6, 22, 45},
+		"Luck": {2, 21, 25},
+		"Defense": {5, 22, 45},
+    		"Resistance": {2, 21, 40},
+		"Movement": {5, 7, 0}
+	}
+}
