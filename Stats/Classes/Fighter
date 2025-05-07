@@ -1,5 +1,5 @@
 {	
-	"Description": "A beefy brawler who can pack a powerful punch.",
+	"Description": "A beefy brawler with high HP and great Strength behind each punch.",
 	"Weapons": {"Gauntlets"},
 	"Stats": {
 		"HP": {19, 45, 80},
