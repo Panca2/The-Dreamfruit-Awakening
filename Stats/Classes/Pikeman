@@ -1,5 +1,5 @@
 {
-	"Description": "A common soldier with balanced stats.",
+	"Description": "A common soldier with balanced stats all around.",
 	"Weapons": {"Lance"},
 	"Stats": {
 		"HP": {17, 40, 70},
