@@ -1,13 +1,13 @@
 {
 	"Weapons": {"Gauntlets"},
 	"Stats": {
-		"HP": {18, 45, 80},
-		"Strength": {6, 24, 60},
-		"Magic": {1, 19, 0},
-		"Skill": {2, 16, 35},
-		"Speed": {5, 20, 35},
-		"Luck": {0, 17, 15},
-		"Defense": {7, 23, 45},
+		"HP": {19, 45, 80},
+		"Strength": {7, 25, 70},
+		"Magic": {0, 15, 0},
+		"Skill": {6, 23, 55},
+		"Speed": {6, 22, 45},
+		"Luck": {2, 21, 15},
+		"Defense": {4, 19, 40},
     		"Resistance": {1, 18, 30},
 		"Movement": {5, 7, 0}
 	}
