@@ -1,0 +1,14 @@
+{
+	"Weapons": {"Bow"},
+	"Stats": {
+		"HP": {17, 40, 70},
+		"Strength": {5, 21, 45},
+		"Magic": {0, 15, 0},
+		"Skill": {7, 23, 50},
+		"Speed": {5, 21, 45},
+		"Luck": {2, 20, 25},
+		"Defense": {4, 20, 45},
+    "Resistance": {1, 17, 25},
+		"Movement": {5, 7, 0}
+	}
+}
