@@ -1,4 +1,5 @@
 {
+	"Description": "An agile thief whose Speed makes them hard to hit.",
 	"Weapons": {"Dagger"},
 	"Stats": {
 		"HP": {16, 35, 60},
