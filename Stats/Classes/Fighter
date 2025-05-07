@@ -8,7 +8,7 @@
 		"Speed": {5, 20, 35},
 		"Luck": {0, 17, 15},
 		"Defense": {7, 23, 45},
-    "Resistance": {1, 18, 30},
+    		"Resistance": {1, 18, 30},
 		"Movement": {5, 7, 0}
 	}
 }
