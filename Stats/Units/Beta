@@ -2,14 +2,14 @@
 	"Description": "A dedicated Froot who is also a fast learner.",
 	"Personal Skill": "Quick Learner",
 	"Stats": {
-		"HP": {5, 25, 20},
-		"Strength": {2, 9, 15},
-		"Magic": {0, 3, 0},
-		"Skill": {4, 13, 20},
-		"Speed": {2, 8, 15},
-		"Luck": {0, 4, 5},
-		"Defense": {2, 9, 15},
-    		"Resistance": {1, 6, 10}
+		"HP": {5, 50, 20},
+		"Strength": {2, 15, 15},
+		"Magic": {0, 0, 0},
+		"Skill": {4, 40, 20},
+		"Speed": {2, 15, 15},
+		"Luck": {0, 0, 5},
+		"Defense": {2, 15, 15},
+    		"Resistance": {1, 5, 10}
 },
   "Classes": {
     "Pikeman",
