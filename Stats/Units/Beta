@@ -2,7 +2,7 @@
 	"Description": "A dedicated Froot who is also a fast learner.",
 	"Personal Skill": "Quick Learner",
 	"Stats": {
-		"HP": {5, 50, 20},
+		"HP": {5, 25, 20},
 		"Strength": {2, 15, 15},
 		"Magic": {0, 0, 0},
 		"Skill": {4, 40, 20},
