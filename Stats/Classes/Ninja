@@ -3,13 +3,13 @@
 	"Weapons": {"Dagger"},
 	"Stats": {
 		"HP": {19, 44, 70},
-		"Strength": {8, 26, 45},
-		"Magic": {3, 22, 0},
-		"Skill": {6, 23, 50},
-		"Speed": {8, 25, 45},
+		"Strength": {6, 26, 45},
+		"Magic": {2, 22, 0},
+		"Skill": {5, 23, 50},
+		"Speed": {6, 25, 45},
 		"Luck": {1, 21, 25},
-		"Defense": {6, 23, 45},
-    "Resistance": {9, 27, 25},
+		"Defense": {5, 23, 45},
+    "Resistance": {7, 27, 25},
 		"Movement": {5, 7, 0}
 	}
 }
