@@ -1,5 +1,5 @@
 {	
-	"Description": "A lowly bandit who's more suited for theft instead of combat.",
+	"Description": "A sneaky hunter who can strike fast but can't take much back.",
 	"Weapons": {"Bow"},
 	"Stats": {
 		"HP": {16, 35, 65},
