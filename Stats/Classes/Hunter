@@ -1,0 +1,15 @@
+{	
+	"Description": "A hunter who can deal serious damage with a bow.",
+	"Weapons": {"Bow"},
+	"Stats": {
+		"HP": {16, 40, 75},
+		"Strength": {3, 31, 60},
+		"Magic": {1, 20, 0},
+		"Skill": {4, 25, 45},
+		"Speed": {8, 20, 25},
+		"Luck": {0, 26, 30},
+		"Defense": {2, 22, 35},
+    		"Resistance": {0, 21, 30},
+		"Movement": {5, 7, 0}
+	}
+}
