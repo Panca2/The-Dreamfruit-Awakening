@@ -1,0 +1,15 @@
+{	
+	"Description": "A sneaky fighter who speeds past even the strongest of magic.",
+	"Weapons": {"Dagger"},
+	"Stats": {
+		"HP": {19, 55, 70},
+		"Strength": {8, 32, 45},
+		"Magic": {3, 28, 0},
+		"Skill": {6, 29, 50},
+		"Speed": {8, 31, 45},
+		"Luck": {1, 26, 25},
+		"Defense": {6, 29, 45},
+    "Resistance": {9, 34, 25},
+		"Movement": {5, 7, 0}
+	}
+}
