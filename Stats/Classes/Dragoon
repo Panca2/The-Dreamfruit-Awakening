@@ -12,4 +12,5 @@
     		"Resistance": {0, 15, 0},
 		"Movement": {7, 9, 0}
 	}
+	"Weaknesses": {"Dragon","Flying"}
 }
