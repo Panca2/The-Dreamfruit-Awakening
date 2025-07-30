@@ -10,5 +10,6 @@
 		"Defense": {5, 22, 45},
     		"Resistance": {3, 21, 25},
 		"Movement": {7, 9, 0}
-	}
+	},
+	"Weaknesses": {"Horse"}
 }
