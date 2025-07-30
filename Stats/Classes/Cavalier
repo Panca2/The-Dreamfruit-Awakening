@@ -1,0 +1,14 @@
+"Description": "A mounted knight with balanced stats and decent resistance.",
+	"Weapons": {"Lance"},
+	"Stats": {
+		"HP": {17, 40, 70},
+		"Strength": {6, 22, 45},
+		"Magic": {0, 15, 0},
+		"Skill": {5, 21, 50},
+		"Speed": {5, 20, 45},
+		"Luck": {3, 24, 25},
+		"Defense": {5, 22, 45},
+    		"Resistance": {3, 21, 25},
+		"Movement": {7, 9, 0}
+	}
+}
