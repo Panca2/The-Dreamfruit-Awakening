@@ -1,15 +1,15 @@
 {
 	"Description": "A peaceful healer who cannot fight.",
-	"Weapons": {"Staff"},
+	"Weapons": ["Staff"],
 	"Stats": {
-		"HP": {16, 35, 60},
-		"Strength": {0, 18, 0},
-		"Magic": {3, 21, 55},
-		"Skill": {5, 20, 45},
-		"Speed": {5, 22, 50},
-		"Luck": {4, 23, 30},
-		"Defense": {2, 17, 55},
-    		"Resistance": {5, 24, 40},
-		"Movement": {5, 7, 0}
+		"HP": [16, 35, 60],
+		"Strength": [0, 18, 0],
+		"Magic": [3, 21, 55],
+		"Skill": [5, 20, 45],
+		"Speed": [5, 22, 50],
+		"Luck": [4, 23, 30],
+		"Defense": [2, 17, 55],
+    		"Resistance": [5, 24, 40],
+		"Movement": [5, 7, 0]
 	}
 }
