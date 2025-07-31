@@ -1,4 +1,5 @@
-"Description": "A clever technician who mimics magic using a blaster.",
+{
+	"Description": "A clever technician who mimics magic using a blaster.",
 	"Weapons": {"Tome"},
 	"Stats": {
 		"HP": {18, 40, 80},
