@@ -1,4 +1,5 @@
-"Description": "A traveling healer who uses a horse for mobility.",
+{
+	"Description": "A traveling healer who uses a horse for mobility.",
 	"Weapons": {"Staff"},
 	"Stats": {
 		"HP": {15, 35, 70},
