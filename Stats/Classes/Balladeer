@@ -1,16 +1,16 @@
 {
 	"Description": "A traveling healer who uses a horse for mobility.",
-	"Weapons": {"Staff"},
+	"Weapons": ["Staff"],
 	"Stats": {
-		"HP": {15, 35, 70},
-		"Strength": {0, 16, 45},
-		"Magic": {3, 19, 0},
-		"Skill": {7, 24, 50},
-		"Speed": {5, 20, 45},
-		"Luck": {4, 23, 25},
-		"Defense": {1, 16, 45},
-    		"Resistance": {4, 21, 25},
-		"Movement": {7, 9, 0}
+		"HP": [15, 35, 70],
+		"Strength": [0, 16, 45],
+		"Magic": [3, 19, 0],
+		"Skill": [7, 24, 50],
+		"Speed": [5, 20, 45],
+		"Luck": [4, 23, 25],
+		"Defense": [1, 16, 45],
+    		"Resistance": [4, 21, 25],
+		"Movement": [7, 9, 0]
 	},
-	"Weaknesses": {"Horse"}
+	"Weaknesses": ["Horse"}
 }
