@@ -1,15 +1,15 @@
 {
 	"Description": "A clever technician who mimics magic using a blaster.",
-	"Weapons": {"Tome"},
+	"Weapons": ["Tome"],
 	"Stats": {
-		"HP": {18, 40, 80},
-		"Strength": {1, 22, 0},
-		"Magic": {6, 15, 60},
-		"Skill": {2, 21, 35},
-		"Speed": {5, 20, 35},
-		"Luck": {0, 24, 15},
-		"Defense": {7, 22, 45},
-    		"Resistance": {1, 21, 30},
-		"Movement": {5, 7, 0}
+		"HP": [18, 40, 80],
+		"Strength": [1, 22, 0],
+		"Magic": [6, 15, 60],
+		"Skill": [2, 21, 35],
+		"Speed": [5, 20, 35],
+		"Luck": [0, 24, 15],
+		"Defense": [7, 22, 45],
+    		"Resistance": [1, 21, 30],
+		"Movement": [5, 7, 0]
 	}
 }
