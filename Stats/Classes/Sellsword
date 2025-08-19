@@ -11,5 +11,9 @@
 		"Defense": [5, 21, 45],
     		"Resistance": [2, 19, 40],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Survivor",
+		"Level 10": "Fight Instinct"
 	}
 }
