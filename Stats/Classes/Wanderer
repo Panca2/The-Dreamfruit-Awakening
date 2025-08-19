@@ -11,5 +11,9 @@
 		"Defense": [5, 25, 30],
     		"Resistance": [3, 25, 30],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Revealing Dreams",
+		"Level 10": "Sweet Dreams"
 	}
 }
