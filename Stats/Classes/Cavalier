@@ -12,5 +12,9 @@
     		"Resistance": [3, 21, 25],
 		"Movement": [7, 9, 0]
 	},
+	"Skills": {
+		"Level 1": "Dilligence",
+		"Level 10": "Smooth Terrain"
+	}
 	"Weaknesses": ["Horse"]
 }
