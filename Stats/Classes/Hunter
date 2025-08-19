@@ -11,5 +11,9 @@
 		"Defense": [6, 23, 35],
     		"Resistance": [2, 20, 30],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Resourceful",
+		"Level 10": "Scavenger"
 	}
 }
