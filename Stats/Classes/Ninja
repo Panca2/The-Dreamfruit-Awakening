@@ -11,5 +11,9 @@
 		"Defense": [5, 23, 45],
     		"Resistance": [7, 27, 25],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Slow Death",
+		"Level 10": "Skill Break"
 	}
 }
