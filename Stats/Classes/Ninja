@@ -1,5 +1,5 @@
 {	
-	"Description": "A sneaky fighter who speeds past even the strongest of magic.",
+	"Description": "A sneaky fighter who fares well against mages.",
 	"Weapons": ["Dagger"],
 	"Stats": {
 		"HP": [19, 44, 70],
