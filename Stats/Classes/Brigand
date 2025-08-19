@@ -9,7 +9,11 @@
 		"Speed": [4, 20, 40],
 		"Luck": [2, 19, 20],
 		"Defense": [7, 24, 55],
-    		"Resistance": [0, 15, 15],
+    	"Resistance": [0, 15, 15],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "HP +5",
+		"Level 10": "Crit +5"
 	}
 }
