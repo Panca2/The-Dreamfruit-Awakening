@@ -15,6 +15,6 @@
 	"Skills": {
 		"Level 1": "Dilligence",
 		"Level 10": "Smooth Terrain"
-	}
+	},
 	"Weaknesses": ["Horse"]
 }
