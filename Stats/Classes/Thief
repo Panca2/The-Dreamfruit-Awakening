@@ -11,5 +11,9 @@
 		"Defense": [3, 19, 35],
     		"Resistance": [3, 20, 50],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Lockpicker",
+		"Level 10": "Pickpocket"
 	}
 }
