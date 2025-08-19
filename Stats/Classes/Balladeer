@@ -12,5 +12,9 @@
     		"Resistance": [4, 21, 25],
 		"Movement": [7, 9, 0]
 	},
+	"Skills": {
+		"Level 1": "Resistance +2",
+		"Level 10": "Soothing Song"
+	},
 	"Weaknesses": ["Horse"]
 }
