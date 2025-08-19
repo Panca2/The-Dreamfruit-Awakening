@@ -11,5 +11,9 @@
 		"Defense": [4, 20, 45],
     		"Resistance": [1, 17, 25],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Skill +2",
+		"Level 10": "Focus Shot"
 	}
 }
