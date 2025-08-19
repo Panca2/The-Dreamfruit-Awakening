@@ -11,5 +11,9 @@
 		"Defense": [2, 17, 55],
     		"Resistance": [5, 24, 40],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Second Chance",
+		"Level 10": "Lucky Boost"
 	}
 }
