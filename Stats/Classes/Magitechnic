@@ -11,5 +11,9 @@
 		"Defense": [7, 22, 45],
     		"Resistance": [1, 21, 30],
 		"Movement": [5, 7, 0]
+	},
+	"Skills": {
+		"Level 1": "Heavy Hitter",
+		"Level 10": "Salvaging"
 	}
 }
