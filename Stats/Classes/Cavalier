@@ -16,5 +16,6 @@
 		"Level 1": "Dilligence",
 		"Level 10": "Smooth Terrain"
 	},
+	"Advanced Classes": ["Dracoknight", "Magirider"],
 	"Weaknesses": ["Horse"]
 }
