@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Lockpicker",
 		"Level 10": "Pickpocket"
-	}
+	},
+	"Advanced Classes": ["Trickster", "Staffservant"]
 }
