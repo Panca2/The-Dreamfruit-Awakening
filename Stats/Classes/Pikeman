@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Defense +2",
 		"Level 10": "Defense Break"
-	}
+	},
+	"Advanced Classes": ["Steel Champion", "Adventurer"]
 }
