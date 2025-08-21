@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Second Chance",
 		"Level 10": "Lucky Boost"
-	}
+	},
+	"Advanced Classes": ["Adventurer", "Staffservant"]
 }
