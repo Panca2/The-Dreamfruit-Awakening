@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Resourceful",
 		"Level 10": "Scavenger"
-	}
+	},
+	"Advanced Classes": ["Bow Rider", "Trickster"]
 }
