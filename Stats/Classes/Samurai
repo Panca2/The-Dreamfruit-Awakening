@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Flight Instinct",
 		"Level 10": "Last Stand"
-	}
+	},
+	"Advanced Classes": ["Swordmaster", "Assassin"]
 }
