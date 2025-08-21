@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Heavy Hitter",
 		"Level 10": "Salvaging"
-	}
+	},
+	"Advanced Classes": ["Automaton Rider", "Magirider"]
 }
