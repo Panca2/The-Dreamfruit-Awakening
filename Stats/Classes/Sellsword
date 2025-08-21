@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Survivor",
 		"Level 10": "Fight Instinct"
-	}
+	},
+	"Advanced Classes": ["Hero", "Bow Rider"]
 }
