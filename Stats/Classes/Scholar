@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Magic +2",
 		"Level 10": "Opportunistic"
-	}
+	},
+	"Advanced Classes": ["Strategist", "Archmage"]
 }
