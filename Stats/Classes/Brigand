@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "HP +5",
 		"Level 10": "Crit +5"
-	}
+	},
+	"Advanced Classes": ["Hero", "Berserker"]
 }
