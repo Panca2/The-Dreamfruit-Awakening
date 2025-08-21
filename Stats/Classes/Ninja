@@ -15,5 +15,6 @@
 	"Skills": {
 		"Level 1": "Slow Death",
 		"Level 10": "Skill Break"
-	}
+	},
+	"Advanced Classes": ["Assassin", "Adventurer"]
 }
