@@ -1,5 +1,5 @@
 {
-	"Description": "An armored soldier who wields lances.",
+	"Description": "A slow, armored soldier. Wields lances.",
 	"Weapons": ["Lance"],
 	"Stats": {
 		"HP": [19, 45, 70],
