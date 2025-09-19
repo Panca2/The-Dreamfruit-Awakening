@@ -1,5 +1,5 @@
 {
-	"Description": "A typical mercenary who can hold their own with good survivability.",
+	"Description": "A typical mercenary who can hold their own with balanced stats. Wields swords.",
 	"Weapons": ["Sword"],
 	"Stats": {
 		"HP": [17, 40, 70],
