@@ -1,5 +1,5 @@
 {	
-	"Description": "A hunter who can deal serious damage with a bow.",
+	"Description": "A hunter who is used to life in the wilderness. Wields bows.",
 	"Weapons": ["Bow"],
 	"Stats": {
 		"HP": [18, 45, 75],
