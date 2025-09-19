@@ -1,5 +1,5 @@
 {
-	"Description": "A clever mage whose Magic is hard to resist.",
+	"Description": "A clever mage whose Magic is hard to resist. Wields tomes.",
 	"Weapons": ["Tome"],
 	"Stats": {
 		"HP": [15, 35, 60],
