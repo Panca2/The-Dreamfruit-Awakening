@@ -1,5 +1,5 @@
 {	
-	"Description": "A bowman with great Skill who can attack from afar, but not close-up.",
+	"Description": "A bowman with great Skill who can attack from afar, but not close-up. Wields bows.",
 	"Weapons": ["Bow"],
 	"Stats": {
 		"HP": [17, 40, 70],
