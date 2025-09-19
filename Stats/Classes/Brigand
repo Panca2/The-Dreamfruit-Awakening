@@ -1,5 +1,5 @@
 {	
-	"Description": "A ruthless barbarian who endures most things that aren't magical.",
+	"Description": "A ruthless barbarian who endures most things that aren't magical. Wields axes.",
 	"Weapons": ["Axe"],
 	"Stats": {
 		"HP": [17, 40, 70],
