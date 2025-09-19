@@ -1,5 +1,5 @@
 {
-	"Description": "A peaceful healer who cannot fight.",
+	"Description": "A peaceful healer who cannot fight. Wields staves.",
 	"Weapons": ["Staff"],
 	"Stats": {
 		"HP": [16, 35, 60],
