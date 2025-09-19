@@ -1,5 +1,5 @@
 {
-	"Description": "A mounted knight with balanced stats and decent resistance. Wields swords and lances",
+	"Description": "A mounted, well-rounded knight with decent resistance. Wields swords and lances.",
 	"Weapons": ["Sword", "Lance"],
 	"Stats": {
 		"HP": [17, 40, 70],
