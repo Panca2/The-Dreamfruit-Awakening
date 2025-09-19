@@ -1,6 +1,6 @@
 {
-	"Description": "A mounted knight with balanced stats and decent resistance.",
-	"Weapons": ["Lance"],
+	"Description": "A mounted knight with balanced stats and decent resistance. Wields swords and lances",
+	"Weapons": ["Sword", "Lance"],
 	"Stats": {
 		"HP": [17, 40, 70],
 		"Strength": [6, 22, 45],
