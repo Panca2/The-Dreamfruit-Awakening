@@ -1,5 +1,5 @@
 {	
-	"Description": "A person of unknown origins with physical and magical potential.",
+	"Description": "A person of unknown origins with physical and magical potential. Wields swords and tomes.",
 	"Weapons": ["Sword", "Tome"],
 	"Stats": {
 		"HP": [16, 60, 70],
