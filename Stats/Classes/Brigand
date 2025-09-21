@@ -1,15 +1,15 @@
 {	
-	"Description": "A ruthless barbarian who endures most things that aren't magical. Wields axes.",
+	"Description": "A ruthless barbarian with high Strength and Health. Wields axes.",
 	"Weapons": ["Axe"],
 	"Stats": {
-		"HP": [17, 40, 70],
+		"HP": [19, 40, 70],
 		"Strength": [6, 22, 50],
 		"Magic": [0, 17, 0],
-		"Skill": [5, 21, 50],
-		"Speed": [4, 20, 40],
+		"Skill": [6, 21, 50],
+		"Speed": [6, 20, 40],
 		"Luck": [2, 19, 20],
-		"Defense": [7, 24, 55],
-    	"Resistance": [0, 15, 15],
+		"Defense": [4, 24, 55],
+    	"Resistance": [1, 15, 15],
 		"Movement": [5, 7, 0]
 	},
 	"Skills": {
