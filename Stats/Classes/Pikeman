@@ -2,15 +2,15 @@
 	"Description": "A slow, armored soldier. Wields lances.",
 	"Weapons": ["Lance"],
 	"Stats": {
-		"HP": [19, 45, 70],
-		"Strength": [8, 24, 50],
-		"Magic": [0, 15, 0],
-		"Skill": [5, 22, 55],
-		"Speed": [3, 17, 45],
-		"Luck": [3, 22, 25],
-		"Defense": [8, 27, 45],
-    		"Resistance": [1, 18, 40],
-		"Movement": [4, 6, 0]
+		"HP": [19, 45, 80, 20],
+		"Strength": [8, 24, 55, 20],
+		"Magic": [0, 15, 0, 0],
+		"Skill": [5, 22, 45, 15],
+		"Speed": [3, 17, 25, 5],
+		"Luck": [3, 22, 30, 10],
+		"Defense": [8, 27, 50, 20],
+    		"Resistance": [1, 18, 30, 0],
+		"Movement": [4, 6, 0, 0]
 	},
 	"Skills": {
 		"Level 1": "Defense +2",
